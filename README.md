@@ -1,8 +1,8 @@
 # toqio-automation-phase
-###Install cypress
+### Install cypress
 `npm install cypress --save-dev`
 
-###Open Cypress to run the tests
+### Open Cypress to run the tests
 `npm run test`
 
 1. Click on E2E Testing
