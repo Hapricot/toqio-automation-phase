@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "npx cypress open"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Hapricot/toqio-automation-phase/issues"
   },
-  "homepage": "https://github.com/Hapricot/toqio-automation-phase#readme"
+  "homepage": "https://github.com/Hapricot/toqio-automation-phase#readme",
+  "devDependencies": {
+    "cypress": "^13.14.2"
+  }
 }
