@@ -13,5 +13,7 @@
 6. The tests will be executed
 7. In the menu on the left we can see the result of the test.
 
-_*NOTE:* I am aware that its not a good practice to leave commented out parts of the code that don't work. However I wanted to be totally transparent and show even the blocks I have come across_
-_*NOTE:* After finishing the automation of the two test cases, I think that in the homepageView.js case it may not be a very maintainable test. Therefore, I think I would follow a strategy of meeting with the owners/stakeholders of it and try to understand which are the critical points (and therefore should be in the test) and which are the most non-maintainable (and look for another way to validate them)._
+_**NOTE:** I am aware that its not a good practice to leave commented out parts of the code that don't work. However I wanted to be totally transparent and show even the blocks I have come across_
+
+_**NOTE:** After finishing the automation of the two test cases, I think that in the homepageView.js case it may not be a very maintainable test._
+_Therefore, I think I would follow a strategy of meeting with the owners/stakeholders of it and try to understand which are the critical points (and therefore should be in the test) and which are the most non-maintainable (and look for another way to validate them)._
