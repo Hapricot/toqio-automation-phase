@@ -1,4 +1,6 @@
 # toqio-automation-phase
+I have chosen Cypress + javascript because I have been working with it for the last year, with the goal of continuing learning and going beyond what I already know.
+
 ### Install cypress
 `npm install cypress --save-dev`
 
@@ -6,7 +8,7 @@
 `npm run test`
 
 1. Click on E2E Testing
-2. Select the desired browser (Chrome)
+2. Select the desired browser (Chrome in my case)
 3. Click on [Start E2E Testing in Chrome].
 4. A new browser tab will open where you will see the specs (test groups) listed.
 5. Select the spec you want to run
