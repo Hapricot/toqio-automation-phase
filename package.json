@@ -17,6 +17,7 @@
     "url": "https://github.com/Hapricot/toqio-automation-phase/issues"
   },
   "homepage": "https://github.com/Hapricot/toqio-automation-phase#readme",
+  "chromeWebSecurity": false,
   "devDependencies": {
     "cypress": "^13.14.2"
   }
